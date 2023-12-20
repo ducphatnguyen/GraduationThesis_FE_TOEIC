@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Part 1: Photos "
+    },
+    {
+        "id": 2,
+        "name": "Phần 2: Hỏi Đáp"
+    },
+    {
+        "id": 3,
+        "name": "Phần 3: Đoạn Hội Thoại"
+    },
+    {
+        "id": 4,
+        "name": "Phần 4: Bài Nói Ngắn"
+    },
+    {
+        "id": 5,
+        "name": "Phần 5: Hoàn Thành Câu"
+    },
+    {
+        "id": 6,
+        "name": "Phần 6: Hoàn Thành Đoạn Văn"
+    },
+    {
+        "id": 7,
+        "name": "Phần 7: Đọc Hiểu - Đoạn Đơn"
+    },
+    {
+        "id": 8,
+        "name": "Phần 7: Đọc Hiểu - Đoạn Kép"
+    },
+    {
+        "id": 9,
+        "name": "Phần 7: Đọc Hiểu - Đoạn Ba"
+    }
+]

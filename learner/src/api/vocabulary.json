@@ -1,0 +1,26 @@
+{
+    "vocabularies": [
+        {
+            "vocabularyId": 1,
+            "word": "cat",
+            "meaning": "con mèo",
+            "exampleSentence": "I have a cute cat.",
+            "topicId": 1
+        },
+        {
+            "vocabularyId": 2,
+            "word": "dog",
+            "meaning": "con chó",
+            "exampleSentence": "My dog is very friendly.",
+            "topicId": 1
+        },
+        {
+            "vocabularyId": 3,
+            "word": "apple",
+            "meaning": "quả táo",
+            "exampleSentence": "She loves to eat apple.",
+            "topicId": 2
+        }
+    ]
+}
+  
